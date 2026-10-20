@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-router-loader-query-key-repro",
+    "slug": "expo-router-loader-query-key-repro",
+    "scheme": "repro",
+    "web": {
+      "output": "server"
+    },
+    "plugins": ["expo-router"]
+  }
+}
